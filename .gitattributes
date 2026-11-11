@@ -1,0 +1,3 @@
+# Memory files are plain text shared between Windows, macOS, Linux and the claude.ai sandbox.
+# Keep them in LF everywhere, so a device never rewrites a whole file just by changing its line endings.
+* text=auto eol=lf
